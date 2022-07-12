@@ -1,0 +1,15 @@
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\bin\Debug\netstandard2.0\XamarinFormsSandbox.deps.json
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\bin\Debug\netstandard2.0\XamarinFormsSandbox.dll
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\bin\Debug\netstandard2.0\XamarinFormsSandbox.pdb
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.csproj.AssemblyReference.cache
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.AssemblyInfoInputs.cache
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.AssemblyInfo.cs
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.csproj.CoreCompileInputs.cache
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.dll
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\refint\XamarinFormsSandbox.dll
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\XamarinFormsSandbox.pdb
+C:\Users\sohai\source\repos\XamarinFormsSandbox\XamarinFormsSandbox\XamarinFormsSandbox\obj\Debug\netstandard2.0\ref\XamarinFormsSandbox.dll

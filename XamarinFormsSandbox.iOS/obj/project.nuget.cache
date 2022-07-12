@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P1cRMDiFdvLloMLC+XHf4bWlI2rhpvI3i3ZtZD7Lb8Z+LegqrgFhrysvhy41YwuOTsciv2GDtkneCRHZbCOkkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sohai\\source\\repos\\XamarinFormsSandbox\\XamarinFormsSandbox\\XamarinFormsSandbox.iOS\\XamarinFormsSandbox.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sohai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sohai\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\sohai\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

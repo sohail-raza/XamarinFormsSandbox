@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodels="clr-namespace:XamarinFormsSandbox.ViewModel"
+             x:Class="XamarinFormsSandbox.MainPage">
+  
+    
+    <!--Binding context setup-->
+    <ContentPage.BindingContext>
+        <viewmodels:MainPageEquipmentViewModel></viewmodels:MainPageEquipmentViewModel>
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <!--Demo for Binding Context-->
+        <Label x:Name="LabelCount" Text="{Binding CountDisplay}"></Label>
+        <Label x:Name="LabelCountSecond" Text="{Binding CountDisplay}"></Label>
+       
+
+        <!--IncreaseCount is being used in place of a button_clicked event to decouple the code-->
+        <Button Command="{Binding IncreaseCount}"  Text="Click me"></Button>
+    </StackLayout>
+
+</ContentPage>
